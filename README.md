@@ -4,7 +4,7 @@
 
 `config.json` 内容如下：
 
-```json
+```jsonc
 {
   "redisUrl": "redis://127.0.0.1:6379",
   "napcatWs": "ws://127.0.0.1:3001",
